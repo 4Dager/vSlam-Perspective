@@ -23,6 +23,7 @@ $ brew install boost
 	iPhone7 Plus, iPhone7, iPhone6s Plus, iPhone6s, iPad Pro
 	iOS 10.2.1 and above
 
+
 ### 2.APP下载
 #### 2.1 扫描二维码或通过下列网址进行下载
 <img src="https://raw.githubusercontent.com/wiki/4Dager/vSlam-Perspective/2018-09-06 16-59-16屏幕截图.png" 
