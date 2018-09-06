@@ -12,7 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 $ brew install boost
 ```
-#### 1.2具体下载 **opencv2.framework** [这里](http://uav.ust.hk/storage/opencv2.framework.zip),然后解压缩到**VINS_ThirdPartyLib/opencv2.framework**(请确保您没有为OSX安装opencv)**
+#### 1.2请下载 **opencv2.framework** [这里](http://uav.ust.hk/storage/opencv2.framework.zip),然后解压缩到**VINS_ThirdPartyLib/opencv2.framework(请确保您没有为OSX安装opencv)**
  
 #### 1.3 在你的Xcode里，选择 **Product**-> **Scheme**-> **Edit Scheme**-> **Run**-> **Info**, set **Build Configuration** to **Release** (not debug)
 
