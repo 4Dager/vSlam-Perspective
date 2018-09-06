@@ -16,7 +16,7 @@ $ brew install boost
  
 #### 1.3 在你的Xcode里，选择 **Product**-> **Scheme**-> **Edit Scheme**-> **Run**-> **Info**, set **Build Configuration** to **Release** (not debug)
 
-#### 1.4 **在左上角选择您的设备**，然后在Main.storyboard中选择您的设备尺寸**，构建并运行
+#### 1.4 **在左上角选择您的设备**，然后在**Main.storyboard中选择您的设备尺寸**，构建并运行
 
 #### 1.5兼容设备和iOS版本要求
 
