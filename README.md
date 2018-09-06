@@ -9,7 +9,7 @@ alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>
 ### 1.源码编译
 
 ### 2.APP下载
-#### 2.1 扫描二维码或通过写列网址进行下载
+#### 2.1 扫描二维码或通过下列网址进行下载
 <img src="https://raw.githubusercontent.com/wiki/4Dager/vSlam-Perspective/2018-09-06 16-59-16屏幕截图.png" 
 width="100" height="100" border="0" />
 #### 下载地址: <a>https://fir.im/vtyz</a>
