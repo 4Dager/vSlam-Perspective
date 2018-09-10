@@ -50,3 +50,6 @@ width="200" height="300" border="0" />
 ##### 第六步，完成设置后，我们可重新打开该APP，查证是否成功设置，如可进入即可，如下图所示。
 <img src="https://raw.githubusercontent.com/wiki/4Dager/vSlam-Perspective/6.png" 
 width="200" height="300" border="0" />
+
+## 特别鸣谢
+**香港科技大学航空机器人集团** [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
