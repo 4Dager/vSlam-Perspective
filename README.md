@@ -52,4 +52,4 @@ width="200" height="300" border="0" />
 width="200" height="300" border="0" />
 
 ## 特别鸣谢
-[HKUST Aerial Robotics Group](http://uav.ust.hk/).
+[HKUST Aerial Robotics Group](http://uav.ust.hk/)
