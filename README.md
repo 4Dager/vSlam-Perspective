@@ -1,7 +1,8 @@
 ## 4Dager-vSlam-Perspective
 
 ## 概述
-vSlam-Perspective可在兼容的iOS设备上运行，并为增强现实（AR）应用程序提供本地化服务。它还针对自主无人机的状态估计和反馈控制进行了测试。vSlam-Perspective使用基于滑动窗口优化的配方，通过自动初始化和故障恢复提供高精度视觉惯性测距。使用全局姿势图SLAM实时校正累积的里程计误差。 提供AR演示来展示其功能。
+
+vSlam-Perspective可在兼容的iOS设备上运行，并为增强现实（AR）应用程序提供本地化服务。它还针对自主无人机的状态估计和反馈控制进行了测试。vSlam-Perspective使用基于滑动窗口优化的方法，通过自动初始化和故障恢复提供高精度视觉惯性测距。使用全局姿势图SLAM实时校正累积的里程计误差。并提供AR演示来展示其功能。
 
 <a href="https://v.youku.com/v_show/id_XMzgxMDgzNDQyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A
 " target="_blank"><img src="https://vthumb.ykimg.com/054104085B8E65CE000001591301CB29" 
