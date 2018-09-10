@@ -52,4 +52,5 @@ width="200" height="300" border="0" />
 width="200" height="300" border="0" />
 
 ## 特别鸣谢
-**香港科技大学航空机器人集团** [HKUST Aerial Robotics Group](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+**香港科技大学航空机器人集团** 
+[HKUST Aerial Robotics Group](http://uav.ust.hk/).
